@@ -8,4 +8,4 @@
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
 [![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17031913/valan)
 
-![](https://c.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif)
+![](https://c.tenor.com/exuPwTTU-FwAAAAC/key-click-typing.gif)
