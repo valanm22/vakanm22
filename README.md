@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm Valan.</h3>
+<h3 align="center">Hey, I'm Valan!</h3>
 <p align="center">
   
 ---
