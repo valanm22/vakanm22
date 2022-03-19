@@ -1,11 +1,15 @@
-<h3 align="center">Hey, I'm Valan!</h3>
-<p align="center">
-  
----
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://valanm22@gmail.com)
-[![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/valan22)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valan-baptist-mathuranayagam-42b620213/)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/valanm22)
-[![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17031913/valan)
+# Hi, I'm Valan Baptist Mathuranayagam 👋🏾 
 
-![](https://c.tenor.com/exuPwTTU-FwAAAAC/key-click-typing.gif)
+As an undergrad student at the University of Westminster in the School of Computer Science & Engineering, I am passionate about Data Science and Cloud Engineering. I am experienced in Java, Python, and Bash. I am open to learning new concepts and technologies to help me better myself.
+
+## Find me around the web:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kaggle.svg" />][kaggle]
+[<img align="left" alt="codeSTACKr | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.14.0/icons/stackoverflow.svg" />][stackoverflow]
+
+<br />
+
+[kaggle]: https://www.kaggle.com/valan22
+[linkedin]: https://www.linkedin.com/in/valan-baptist-mathuranayagam-42b620213/
+[stackoverflow]: https://stackoverflow.com/users/17031913/valan
