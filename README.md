@@ -1,6 +1,6 @@
 # Hi, I'm Valan Baptist Mathuranayagam 👋🏾 
 
-As an undergrad student at the University of Westminster in the School of Computer Science & Engineering, I am passionate about Data Science and Cloud Engineering. I am experienced in Java, Python, and Bash. I am open to learning new concepts and technologies to help me better myself.
+As an undergrad student at the University of Westminster in the School of Computer Science & Engineering, I am passionate about Data Science and Cloud Engineering. I am experienced in Java, Python, and Go. I am open to learning new concepts and technologies to help me better myself.
 
 ## Find me around the web:
 
