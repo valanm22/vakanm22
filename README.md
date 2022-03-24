@@ -4,9 +4,9 @@ As an undergrad student at the University of Westminster in the School of Comput
 
 ## Find me around the web:
 
-[<img align="left" alt="codeSTACKr | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kaggle.svg" />][kaggle]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.14.0/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="codeSTACKr | Kaggle" width="22px" src="https://github.com/valanm22/valanm22/blob/main/kaggle.svg" />][kaggle]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://github.com/valanm22/valanm22/blob/main/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Stack Overflow" width="22px" src="https://github.com/valanm22/valanm22/blob/main/stackoverflow.svg" />][stackoverflow]
 
 <br />
 
