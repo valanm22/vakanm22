@@ -7,9 +7,11 @@ As an undergrad student at the University of Westminster in the School of Comput
 [<img align="left" alt="codeSTACKr | Kaggle" width="22px" src="https://github.com/valanm22/valanm22/blob/main/kaggle.svg" />][kaggle]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://github.com/valanm22/valanm22/blob/main/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Stack Overflow" width="22px" src="https://github.com/valanm22/valanm22/blob/main/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://github.com/valanm22/valanm22/blob/main/twitter.svg" />][twitter]
 
 <br />
 
 [kaggle]: https://www.kaggle.com/valan22
 [linkedin]: https://www.linkedin.com/in/valan-baptist-mathuranayagam-42b620213/
 [stackoverflow]: https://stackoverflow.com/users/17031913/valan
+[twitter]: https://twitter.com/valanm22
